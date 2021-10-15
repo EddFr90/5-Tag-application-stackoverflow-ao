@@ -1,0 +1,7 @@
+wordnet
+porter_test
+reuters
+punkt
+stopwords
+pos_tag
+word_tokenize
